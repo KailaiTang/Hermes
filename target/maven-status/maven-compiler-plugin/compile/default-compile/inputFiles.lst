@@ -1,0 +1,14 @@
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/CartItem.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/ShippingAddress.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/log/ServerLogger.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Cart.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Customer.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/User.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Authorities.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Product.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/SalesOrder.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/log/PaymentAction.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/Application.java
+/Users/tangkailai/eclipse-workspace/onlineShop/src/main/java/onlineShop/log/Logger.java
